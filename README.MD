@@ -163,7 +163,6 @@ Before performing any analysis, the raw datasets were cleaned, validated, and tr
 
 # 🐍 Python — Data Validation & Statistical Analysis
 
-> **🖼️ (ضع هنا لقطة شاشة من Jupyter Notebook تعرض جزءًا من الكود والنتائج.)**
 
 Python was used to independently validate SQL outputs and verify that business conclusions were statistically reliable before being presented to decision-makers.
 
